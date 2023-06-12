@@ -1,7 +1,0 @@
-.cache/Keywords
-.settings
-Include/config
-.gitignore
-OrangeWebTest.prj
-build.gradle
-console.properties
