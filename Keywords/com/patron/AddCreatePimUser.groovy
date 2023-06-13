@@ -56,14 +56,6 @@ public class AddDeletePimUser {
 			WebUI.verifyElementNotPresent(foundUserDiv, 1)
 		}
 	
-/*
-		//impossible >:| known issue from '19 https://forum.katalon.com/t/webui-verify-element-present/16622/3
-		try {
-			WebUI.verifyElementNotPresent(foundUserDiv, 1)
-		}catch (Exception e) {
-			WebUI.verifyEqual(true, true)
-		}
-*/
 	}
 
 
